@@ -337,6 +337,10 @@ var components = {
 			"title": "MEL",
 			"owner": "Golmote"
 		},
+		"meson": {
+			"title": "Meson",
+			"owner": "TingPing"
+		},
 		"mizar": {
 			"title": "Mizar",
 			"owner": "Golmote"
